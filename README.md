@@ -8,4 +8,5 @@ Cette quête me servira à découvrir :
 
 2- un codage simple, le Markdown.
 
-Le CV est là pour ceux que ça intéresse ! ;-)
+Le CV est [là](https://github.com/julien-Nmd/MiniCV/blob/main/CV.md) pour ceux que ça intéresse ! ;-)
+ 
