@@ -28,11 +28,17 @@ Recrutement et formation d'une équipe de 20 personnes.
 Site école : formation de l'ensemble du personnel de l'enseigne.
 Mise en application des règles d'hygiène et de sécurité._  
 
-### Diplômes et Formations 
+### Diplômes et Formations  
 __Permis d'exploitation__  
 _Février 2023 UMIH 33 Bordeaux_  
-__Baccalauréat Scientifique__ 
+__Baccalauréat Scientifique__  
 _2001 40 Parentis-en-Born_  
+
+### Hobbies  
+_Voyages_  
+_Bateau_  
+_Nature_  
+_Gastronomie_  
 
 
 
